@@ -128,7 +128,7 @@ html {
 body {
 	background: #d31f1f;
 	box-sizing: border-box;
-	color: #000;
+	color: rgb(30, 35, 188);
 	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
 	font-size: 1.8rem;
 	letter-spacing: -0.015em;
