@@ -1,3 +1,5 @@
+<!-- Test: Åsmund Sollihøgda -->
+
 <?php
 /**
  * The main template file
