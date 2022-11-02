@@ -1,4 +1,4 @@
-<!-- Test: Åsmund Sollihøgda 2 -->
+<!-- Test: Åsmund Sollihøgda 3 -->
 
 <?php
 /**
