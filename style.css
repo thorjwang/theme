@@ -456,7 +456,7 @@ hr.styled-separator::after {
 }
 
 a {
-	color: #28000b;
+	color: #28000b!important;
 	text-decoration: underline;
 }
 
